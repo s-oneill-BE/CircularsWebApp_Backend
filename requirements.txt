@@ -1,0 +1,10 @@
+asyncio==3.4.3
+az==0.1.0.dev1
+azure-common==1.1.28
+azure-core==1.30.2
+azure-identity==1.16.1
+azure-search-documents==11.6.0b4
+Flask==3.0.3
+Flask-Cors==4.0.1
+openai==1.32.0
+semantic-kernel==1.0.5
